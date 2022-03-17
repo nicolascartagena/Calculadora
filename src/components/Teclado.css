@@ -1,0 +1,9 @@
+.teclado {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    width: 90%;
+    box-sizing: border-box;
+}
